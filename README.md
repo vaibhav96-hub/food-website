@@ -1,4 +1,4 @@
-https://github.com/vaibhav96-hub/fA modern and responsive Food Website Frontend built using HTML, CSS, and JavaScript.
+ modern and responsive Food Webshttps://github.com/vaibhav96-hub/food-websiteite Frontend built using HTML, CSS, and JavaScript.
 This project is designed to showcase a clean user interface for food ordering, browsing menus, and exploring restaurants.
 
 🚀 Features
